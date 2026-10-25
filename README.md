@@ -1,2 +1,0 @@
-# RemoteArenaKotlin
-Projeto Android Kotlin
